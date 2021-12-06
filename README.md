@@ -1,4 +1,4 @@
-# MoviesAsync
+# GitWrangler
 Things you need:
 * dotnet-ef (Install: `dotnet tool install --global dotnet-ef`)
 * A MySql database
